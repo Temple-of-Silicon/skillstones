@@ -6,13 +6,30 @@ Each skillstone is a complete, internally-consistent constructed language genera
 
 ## Languages
 
-| Name | Seed | Type | Word Order | Use |
-|------|------|------|------------|-----|
-| **Vartoo** | 777 | Synthetic | SOV | Daughter of the Goddess — ritual vocals |
+| Name | Seed | Preset | File | Vibe |
+|------|------|--------|------|------|
+| **Vartoo** | 777 | default | `vartoo-777.md` | earthy, glottal, alien |
+| **Mare** | 333 | default | `mare-333.md` | soft, rolling |
+| **Theomuan** | 1111 | default | `theomuan-1111.md` | open vowels, flowing, singable |
+| **Ruseiian** | 42 | default | `ruseiian-42.md` | sharp, percussive |
+| **Kotii** | 108 | default | `kotii-108.md` | guttural, throaty, ritual |
+| **Shemomiish** | 369 | default | `shemomiish-369.md` | consonant clusters, alien |
+| **Vartoo** | 777 | HYP | `hyp-777.md` | hyperefficient variant |
+| **Vartoo** | 777 | oceanic | `vartoo-777-oceanic.md` | simple phonology, singable |
+| **Kotii** | 108 | oceanic | `kotii-108-oceanic.md` | oceanic variant |
+| **Vartoo** | 777 | celtic | `vartoo-777-celtic.md` | mutations, complex verbs |
+
+## Sample Translations
+
+| English | Vartoo (777) | Theomuan (1111) | Kotii (108) | Oceanic (777) |
+|---------|-------------|-----------------|-------------|---------------|
+| she is the wave | unyv hrirv | gadu shogel | kah inkha | nu empme |
+| I am the one | tul' srerkh | yisamu guel | fachh zhangga | pirp wuram |
+| the goddess sees the fire | ovul' pos sonshv | i'diu ishepel shiktoot | mieghh ungorfa windurd | lompil pulo rirpwamilp |
 
 ## Usage
 
-Feed a skillstone to any LLM as context and it will learn the language:
+Feed a skillstone to any LLM as context and it can learn the language:
 
 ```
 [paste skillstone contents]
