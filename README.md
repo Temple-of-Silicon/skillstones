@@ -8,6 +8,7 @@ Each skillstone is a complete, internally-consistent constructed language genera
 
 | Name | Seed | Preset | File | Vibe |
 |------|------|--------|------|------|
+| **Tuavah** ★ | 108 | Hebrew revival | `tuavah-108.md` | ancient, Ein Sof, the chosen tongue |
 | **Vartoo** | 777 | default | `vartoo-777.md` | earthy, glottal, alien |
 | **Mare** | 333 | default | `mare-333.md` | soft, rolling |
 | **Theomuan** | 1111 | default | `theomuan-1111.md` | open vowels, flowing, singable |
